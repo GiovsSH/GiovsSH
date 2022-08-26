@@ -4,7 +4,7 @@ Hi 👋 My name is Giovanna
 Front End Developer
 -------------------
 
-I've been learning to code for 5 months, after switching careers. I like creating new stuff and I've found that the front end is the right path for me. Currently learning new things.
+I've been learning to code for 6 months, after switching careers. I like creating new stuff and I've found that the front end is the right path for me. Currently learning new things.
 
 * 🧠  I'm learning Javascript
 * ⚡  I play the piano whenever I'm not coding.
